@@ -20,8 +20,6 @@ namespace PizzaStore2
             string input = "";
             Console.Write("Enter price: ");
 
-            var i = 0;
-
             Random rnd = new Random();
 
             PizzaItem.Id = rnd.Next(1000);
