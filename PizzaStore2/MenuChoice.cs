@@ -14,6 +14,7 @@ namespace PizzaStore2
             Console.WriteLine("| Create A New Pizza Item |");
             Console.WriteLine("---------------------------");
             Console.WriteLine();
+            Console.WriteLine();
             Console.Write("Enter name: ");
             PizzaItem.Name = Console.ReadLine();
 
