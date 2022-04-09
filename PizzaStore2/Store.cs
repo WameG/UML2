@@ -53,7 +53,7 @@ namespace PizzaStore2
 
             //Console.WriteLine(menuCatalog.SearchPizza("Tonno"));
 
-            UserDialog.Run();
+            MenuChoice.Run();
         }
     }
 }

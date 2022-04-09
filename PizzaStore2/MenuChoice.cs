@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace PizzaStore2
 {
-    public static class UserDialog
+    public static class MenuChoice
     {
         static List<Pizza> Pizzas = new List<Pizza>();
         static Pizza CreateNewPizza()
